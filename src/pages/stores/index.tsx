@@ -1,7 +1,7 @@
 import React from "react";
 
 const StorePage = () => {
-  return <div>index</div>;
+  return <div>StorePage</div>;
 };
 
 export default StorePage;
