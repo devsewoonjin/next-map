@@ -2,7 +2,6 @@
 import KakaoMap from "@/components/map/KakaoMap";
 import Markers from "@/components/markers/Markers";
 import StoreBox from "@/components/storeBox/StoreBox";
-import * as stores from "@/data/store_data.json";
 import { StoreType } from "@/interface";
 import { useState } from "react";
 export default function Home({ stores }: { stores: StoreType[] }) {
